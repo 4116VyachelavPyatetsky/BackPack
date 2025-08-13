@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Pistol
+  m_EditorClassIdentifier: Assembly-CSharp::ShootingItemConfig
+  itemName: Pistol
+  width: 2
+  cooldown: 1
+  height: 2
+  centerX: 0
+  centerY: 0
+  shape: 01010100
+  lvlMax: 2
+  levelSprites:
+  - {fileID: -6436376011385607893, guid: 89b81f53a5709c64789bd0909e446e7d, type: 3}
+  - {fileID: 5288640683546135796, guid: 563da312379acb841aa43b11df36a776, type: 3}
+  - {fileID: 4751308909232035305, guid: e12c2e9f3dc991649b9b427729313f56, type: 3}
+  damage: 02000000060000000c000000

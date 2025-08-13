@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Automate
+  m_EditorClassIdentifier: Assembly-CSharp::ShootingItemConfig
+  itemName: Automate
+  width: 1
+  cooldown: 1.5
+  height: 3
+  centerX: 0
+  centerY: 0
+  shape: 010101
+  lvlMax: 2
+  levelSprites:
+  - {fileID: 6262707137754197384, guid: bb16478dc2e8d8940ac8b3c9f20bdd37, type: 3}
+  - {fileID: -6176185334012600305, guid: f565fe1b57ea57a4c9000f2d3af07076, type: 3}
+  - {fileID: -6945947823343239740, guid: 5c31eb208d8f0ae4b8129c2378f3a32d, type: 3}
+  damage: 030000000a0000000f000000
